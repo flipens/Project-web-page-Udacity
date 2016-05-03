@@ -1,0 +1,22 @@
+body {
+	background-color: #72C9B9;
+	font-family: 'Mandali', sans-serif;
+	color: #fff;
+}
+a {
+	color: #c6f4d4;
+}
+.logo {
+	margin-top: 7%;
+}
+.logo img {
+	width: 100%;
+}
+.thumbnail {
+	background-color: transparent;
+	border: none;
+	margin-bottom: 50px;
+}
+.thumbnail:hover {
+	opacity: 0.5;
+}
